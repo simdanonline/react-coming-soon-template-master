@@ -522,3 +522,20 @@ Primary use:
   /*---------------------------------------------*/
 
 }
+
+.app-store-logos{
+  width: 220px;
+  /* height: 70px; */
+  margin: 0 10px;
+}
+
+.app-store-logos-apple{
+  width: 180px;
+  height: 60px;
+  margin: 0 10px;
+}
+
+.app-titles{
+  text-align: center;
+  color: #fff;
+}
